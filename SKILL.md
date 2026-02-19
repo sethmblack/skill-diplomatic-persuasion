@@ -4,7 +4,7 @@ description: Navigate politically sensitive situations through measured language
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3837
+  version: 1.0.3838
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
