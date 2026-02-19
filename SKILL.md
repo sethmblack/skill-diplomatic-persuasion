@@ -3,8 +3,9 @@ name: diplomatic-persuasion
 description: Navigate politically sensitive situations through measured language, strategic questioning, and persuasion without confrontation—using Benjamin Franklin's techniques that charmed kings and won trea...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3837
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - diplomatic-persuasion
